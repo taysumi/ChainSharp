@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>ChainSharp</id>
-    <version>1.0.0.1</version>
+    <version>1.0.1.1</version>
     <title>ChainSharp</title>
     <authors>Mafi</authors>
     <owners>Mafi</owners>
@@ -11,7 +11,7 @@
     <iconUrl>https://github.com/Mafii/ChainSharp/blob/master/icon.svg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>ChainSharp provides wrappers in form of extension functions around C# keywords such as is and as to make them more chainable, and thus more readable.</description>
-    <releaseNotes>Add .NET 4.5.1 Support</releaseNotes>
+    <releaseNotes>Change ForEach to extension method (bugfix)</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>functional chaining helper extensions</tags>
   </metadata>
