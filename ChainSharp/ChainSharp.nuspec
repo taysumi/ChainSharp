@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <id>ChainSharp</id>
+    <version>1.0.0.0</version>
+    <title>ChainSharp</title>
+    <authors>Mafi</authors>
+    <owners>Mafi</owners>
     <licenseUrl>https://github.com/Mafii/ChainSharp/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Mafii/ChainSharp/</projectUrl>
     <iconUrl>https://github.com/Mafii/ChainSharp/blob/master/icon.svg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>ChainSharp provides wrappers in form of extension functions around C# keywords such as is and as to make them more chainable, and thus more readable.</description>
+    <releaseNotes>Initial Release</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>functional chaining helper extensions</tags>
   </metadata>
